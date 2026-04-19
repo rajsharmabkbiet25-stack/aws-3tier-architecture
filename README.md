@@ -226,4 +226,4 @@ http://<alb-dns>/users     → [[1, "Raj", "raj@example.com"]]
 
 Raj Sharma — IT Support Executive at SITA, Chandigarh Airport  
 AWS Certified Solutions Architect – Associate  
-[LinkedIn](https://linkedin.com/in/rajsharma) | [GitHub](https://github.com/rajsharma)
+
